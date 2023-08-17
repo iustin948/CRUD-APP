@@ -1,7 +1,7 @@
-﻿using APP.Models;
+﻿using APP.Models.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace APP.Data
+namespace APP.DataAcces.Data
 {
     public class ApplicationDbContext : DbContext
     {

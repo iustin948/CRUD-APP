@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace APP.Migrations
+namespace APP.DataAcces.Migrations
 {
     /// <inheritdoc />
     public partial class AddProductTableToDb : Migration

@@ -4,7 +4,7 @@
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace APP.Migrations
+namespace APP.DataAcces.Migrations
 {
     /// <inheritdoc />
     public partial class SomeGuitars : Migration

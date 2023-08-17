@@ -16,6 +16,7 @@ namespace APP.Utility.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
